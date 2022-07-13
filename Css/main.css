@@ -1,0 +1,16 @@
+
+body {
+    background-color: rgb(185, 185, 179);
+  }
+  h1 {
+    color: blue;
+    margin-right: 30px;
+  }
+
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
